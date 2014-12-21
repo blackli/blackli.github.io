@@ -1,6 +1,6 @@
 ### 我的博客
 
-地址：[http://opjasee.com](http://opjasee.com)
+地址：[http://me.wuseci.com](http://me.wuseci.com)
 
 ### 安装说明
 

@@ -6,16 +6,16 @@ redcarpet:
 
 # 作者信息
 author: 
-  name: jasee
-  email: jaseetao@gmail.com
-  link: http://opjasee.com
-  weibo: http://weibo.com/justatree
-  github: http://github.com/jasee
+  name: blackli
+  email: lihaho@gmail.com
+  link: http://me.wuseci.com
+  weibo: http://weibo.com/blackli
+  github: http://github.com/blackli
 
 # 站点信息
-title: 单线程
-description: 君子生非异也，善假于物也 
-url: http://opjasee.com
+title: blackli
+description: 
+url: http://me.wuseci.com
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
@@ -23,13 +23,13 @@ gavatar: /public/upload/avatar/avatar.png
 favicon: /public/upload/avatar/favicon.ico
 
 # google analytics 设置
-ga:
-  id: UA-44312631-1
-  url: opjasee.com
+#ga:
+#  id: UA-44312631-1
+#  url: opjasee.com
 
 # disqus 设置
 disqus:
-  shortname: jasee
+  shortname: blackli
 
 # 主题设置，自动激活某个标签
 active: 运维
