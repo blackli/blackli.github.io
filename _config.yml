@@ -6,7 +6,7 @@ redcarpet:
 
 # 作者信息
 author: 
-  name: blackli
+  name: BlackLi的网络日志
   email: lihaho@gmail.com
   link: http://me.wuseci.com
   weibo: http://weibo.com/blackli
@@ -32,11 +32,11 @@ disqus:
   shortname: blackli
 
 # 主题设置，自动激活某个标签
-active: 运维
+active: PHP
 
 # 首页除了最新文章外按标签分类显示
 cates:
-  - OpenLDAP
+  - 
 
 # 中文本地化
 locals:
