@@ -6,14 +6,14 @@ redcarpet:
 
 # 作者信息
 author: 
-  name: BlackLi的网络日志
+  name: blackli
   email: lihaho@gmail.com
   link: http://me.wuseci.com
   weibo: http://weibo.com/blackli
   github: http://github.com/blackli
 
 # 站点信息
-title: blackli
+title: blackli的网络日志
 description: 
 url: http://me.wuseci.com
 rss_url: /pages/atom.xml
